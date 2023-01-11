@@ -21,6 +21,8 @@ As imagens estão disponíveis na pasta DS.
 
 Para acessar a versão desktop do dashboard, acesse o link: https://www.figma.com/proto/MeHze4aKOa2ifvfmLID4Dt/Desafio-T%C3%A9cnico-Onisys?page-id=0%3A1&node-id=1%3A2&viewport=1173%2C402%2C0.04&scaling=scale-down&starting-point-node-id=1%3A2
 
+![Desktop Prototype](assets/Desktop1.png)
+
 ### Versão Mobile
 
 Para acessar a versão mobile do dashboard, acesse o link: https://www.figma.com/proto/MeHze4aKOa2ifvfmLID4Dt/Desafio-T%C3%A9cnico-Onisys?page-id=32%3A1903&node-id=32%3A2220&viewport=1694%2C538%2C0.5&scaling=scale-down&starting-point-node-id=32%3A2220
