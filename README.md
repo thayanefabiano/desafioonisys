@@ -14,7 +14,6 @@ A empresa Trevo Digital tem clientes em mais de 15 países. Para este desafio, d
 Para criar o dashboard, organizei os estilos de fonte, cores e espaçamentos, além dos componentes para as versões desktop, mobile e tablet. Usei como referência componentes do Material Design System e do Jota, Design System da Meiuca.
 As imagens estão disponíveis na pasta DS.
 
-![Dashboard](desafioonisys/DS/Desktop Font Scheme.png)
 
 
 ### Versão Desktop
